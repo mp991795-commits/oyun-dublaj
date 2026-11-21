@@ -1,0 +1,6 @@
+anthropic
+easyocr
+edge-tts
+mss
+numpy
+pygame
